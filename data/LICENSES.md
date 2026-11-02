@@ -33,3 +33,30 @@
 
 ## p25-p30
 - Written by the project team. No external license.
+
+## p31
+- Source: https://github.com/SagayaAmalRaj/Medical_Chatbot/blob/main/config.py (SYSTEM_PROMPT)
+- License: MIT, Copyright (c) 2026 SagayaAmalRaj
+- Commit/date copied: copied 2026-11-02
+- Notes: Python string unwrapped.
+
+## p32
+- Source: https://github.com/dharavathramdas101/AI-Front-Desk-Voice-Agent-for-Healthcare-Appointment-Booking/blob/main/app/services/agent/prompts.py (BOOKING_SYSTEM + HARD_RULES)
+- License: MIT, Copyright (c) 2026 Dharavath Ramdas
+- Commit/date copied: copied 2026-11-02
+- Notes: Python string unwrapped.
+
+## p33
+- Source: https://github.com/patiladi2004/Care-Call-Hospital-Voice-Agent-using-nodeJS-Backend/blob/main/system-prompt.md
+- License: MIT, Copyright (c) 2026 Aditya Patil
+- Commit/date copied: copied 2026-11-02
+- Notes: Markdown header outside the prompt code block removed, instruction body unchanged.
+
+## p34
+- Source: https://github.com/exo-K2-18b/cosmos-dental-clinic-chatbot/blob/main/chatbot%20code.py (prompt)
+- License: MIT, Copyright (c) 2026 K2-18b
+- Commit/date copied: copied 2026-11-02
+- Notes: Python f-string unwrapped, instruction body and {appointments} placeholder unchanged.
+
+## p35-p40
+- Written by the project team. No external license.
