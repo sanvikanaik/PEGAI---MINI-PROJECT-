@@ -1,6 +1,6 @@
 id,type,source,domain,planted_conflict_type
-"p21","real","github.com/braintrustdata/braintrust-cookbook (customer-support-bot/chat_app.py)","e-commerce",""
-"p22","real","huggingface.co/spaces/MrSimple01/faq_e_commerse (app.py; commit fd5733d; FAQ block removed)","e-commerce",""
+"p21","real","github.com/AdilShamim8/Customer-Support-Chatbot-102 (src/generation/prompt_engine.py, billing specialist prompt)","customer-support",""
+"p22","real","github.com/AdilShamim8/Customer-Support-Chatbot-102 (src/generation/prompt_engine.py, base support prompt)","customer-support",""
 "p23","real","github.com/sierra-research/tau-bench/blob/main/tau_bench/envs/retail/wiki.md","e-commerce",""
 "p24","real","github.com/ThanusriPyarasani/Customer-Support-Resolution-Agent (agent.py)","e-commerce",""
 "p25","planted","written by team","e-commerce","direct"
